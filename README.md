@@ -1,1 +1,1 @@
-This is a NewTest for git!
+This is a new test for git!
